@@ -15,6 +15,7 @@
 
 <resources>
     <string name="app_name">Motion Layout codelab</string>
+    <string name="title_activity_step0">Motion Layout with dynamic list</string>
     <string name="title_activity_step1">Animations with Motion Layout</string>
     <string name="title_activity_step2">Animating with drag events</string>
     <string name="star">Star</string>
